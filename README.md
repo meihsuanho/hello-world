@@ -1,2 +1,3 @@
 # hello-world
-User Guide
+Hey! I'm Michelle.
+I've edited readme file exhibed the guides to use GitHub.
